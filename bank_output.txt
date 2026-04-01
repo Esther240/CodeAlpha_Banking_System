@@ -1,0 +1,76 @@
+
+===== BANK SYSTEM =====
+1. Create Customer
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Show Account Details
+6. Exit
+Enter choice: 1
+Enter name: Alex
+Enter account number: 789456
+✅ Customer created
+
+===== BANK SYSTEM =====
+1. Create Customer
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Show Account Details
+6. Exit
+Enter choice: 2
+Enter account number: 789456
+Enter amount: 1500
+✅ Deposited
+
+===== BANK SYSTEM =====
+1. Create Customer
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Show Account Details
+6. Exit
+Enter choice: 3
+Enter account number: 789456
+Enter amount: 500
+✅ Withdrawn
+
+===== BANK SYSTEM =====
+1. Create Customer
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Show Account Details
+6. Exit
+Enter choice: 4
+From account: 789456
+To account: 321654
+❌ Invalid account
+
+===== BANK SYSTEM =====
+1. Create Customer
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Show Account Details
+6. Exit
+Enter choice: 5
+Enter account number: 789456
+Name: Alex
+Balance: 1000
+--- Transactions ---
+Deposit : 1500
+Withdraw : 500
+
+===== BANK SYSTEM =====
+1. Create Customer
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Show Account Details
+6. Exit
+Enter choice: 6
+Exiting...
+
+
+=== Code Execution Successful ===
